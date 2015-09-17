@@ -24,3 +24,4 @@ L:\备份_祝君\C\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.csprojReso
 L:\备份_祝君\C\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.MainForm.resources
 L:\备份_祝君\C\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.Properties.Resources.resources
 L:\备份_祝君\C\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.csproj.GenerateResource.Cache
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.csprojResolveAssemblyReference.cache

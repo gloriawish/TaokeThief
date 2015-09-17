@@ -213,16 +213,29 @@ namespace TaokeThief
             //结束跟新列表
             listview.EndUpdate();
         }
-
+        private static Dictionary<string, string> nid_dic = new Dictionary<string, string>();
         public void RunJob(object id)
         {
             try
             {
                 string html = GetHtml(id.ToString());
                 List<Taoke> nlist = GetTaokeNIDList(html);
+                List<Taoke> temp = new List<Taoke>();
+                foreach (var item in nlist)
+                {
+                    if (!nid_dic.ContainsKey(item.Nid))
+                    {
+                        nid_dic.Add(item.Nid, item.Nid);
+                    }
+                    else
+                    {
+                        temp.Add(item);
+                    }
+                }
+
                 string taocan = GetTaokeName(html);
                 //是否能并行
-                foreach (Taoke item in nlist)
+                foreach (Taoke item in temp)
                 {
                     string code = GetTaokeCode(id.ToString(), item.Nid);
                     //获取文件地址
@@ -330,7 +343,8 @@ namespace TaokeThief
                     string line = null;
                     while ((line = sr.ReadLine()) != null)
                     {
-                        list.Add(line);
+                        if(!list.Contains(line))
+                            list.Add(line);
                     }
                     sr.Close();
                     file.Close();
@@ -353,10 +367,24 @@ namespace TaokeThief
             }
 
         }
+        private static Dictionary<string, string> id_dic = new Dictionary<string, string>();
         public void FetchFromUrl(object url)
         {
             List<string> id_list = GetCousreList(url.ToString());
-            foreach (string item in id_list)
+            List<string> temp = new List<string>();
+            for (int i = 0; i < id_list.Count; i++)
+            {
+                if (!id_dic.ContainsKey(id_list[i]))
+                {
+                    id_dic.Add(id_list[i], id_list[i]);
+                }
+                else
+                {
+                    temp.Add(id_list[i]);
+                }
+            }
+
+            foreach (string item in temp)
             {
                 //单线程
                 RunJob(item);
