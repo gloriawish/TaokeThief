@@ -1,2 +1,2 @@
 # TaokeThief
-A program make you can download Charge video free
+A program to download Charge video free
