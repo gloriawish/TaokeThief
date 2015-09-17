@@ -1,0 +1,5 @@
+L:\备份_祝君\C\Desktop\TaokeThief\SplitFile\bin\Debug\SplitFile.exe
+L:\备份_祝君\C\Desktop\TaokeThief\SplitFile\bin\Debug\SplitFile.pdb
+L:\备份_祝君\C\Desktop\TaokeThief\SplitFile\obj\Debug\SplitFile.csprojResolveAssemblyReference.cache
+L:\备份_祝君\C\Desktop\TaokeThief\SplitFile\obj\Debug\SplitFile.exe
+L:\备份_祝君\C\Desktop\TaokeThief\SplitFile\obj\Debug\SplitFile.pdb

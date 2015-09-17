@@ -1,0 +1,26 @@
+c:\users\zz\documents\visual studio 2012\Projects\TaokeThief\TaokeThief\bin\Debug\TaokeThief.exe
+c:\users\zz\documents\visual studio 2012\Projects\TaokeThief\TaokeThief\bin\Debug\TaokeThief.pdb
+c:\users\zz\documents\visual studio 2012\Projects\TaokeThief\TaokeThief\obj\Debug\TaokeThief.csprojResolveAssemblyReference.cache
+c:\users\zz\documents\visual studio 2012\Projects\TaokeThief\TaokeThief\obj\Debug\TaokeThief.MainForm.resources
+c:\users\zz\documents\visual studio 2012\Projects\TaokeThief\TaokeThief\obj\Debug\TaokeThief.Properties.Resources.resources
+c:\users\zz\documents\visual studio 2012\Projects\TaokeThief\TaokeThief\obj\Debug\TaokeThief.csproj.GenerateResource.Cache
+c:\users\zz\documents\visual studio 2012\Projects\TaokeThief\TaokeThief\obj\Debug\TaokeThief.exe
+c:\users\zz\documents\visual studio 2012\Projects\TaokeThief\TaokeThief\obj\Debug\TaokeThief.pdb
+c:\users\zz\documents\visual studio 2012\Projects\TaokeThief\TaokeThief\bin\Debug\NSoup.dll
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.exe
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.pdb
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeThief\bin\Debug\TaokeThief.exe
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeThief\bin\Debug\TaokeThief.pdb
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeThief\bin\Debug\NSoup.dll
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.MainForm.resources
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.Properties.Resources.resources
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.csproj.GenerateResource.Cache
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.exe
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.pdb
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeThief\bin\Debug\TaokeThief.exe
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeThief\bin\Debug\TaokeThief.pdb
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeThief\bin\Debug\NSoup.dll
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.csprojResolveAssemblyReference.cache
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.MainForm.resources
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.Properties.Resources.resources
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeThief\obj\Debug\TaokeThief.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeDownload\bin\Debug\TaokeDownload.exe
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeDownload\bin\Debug\TaokeDownload.pdb
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeDownload\obj\Debug\TaokeDownload.Form1.resources
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeDownload\obj\Debug\TaokeDownload.Properties.Resources.resources
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeDownload\obj\Debug\TaokeDownload.csproj.GenerateResource.Cache
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeDownload\obj\Debug\TaokeDownload.exe
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeDownload\obj\Debug\TaokeDownload.pdb
+C:\Users\sei.zz\Desktop\TaokeThief\TaokeDownload\obj\Debug\TaokeDownload.csprojResolveAssemblyReference.cache
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeDownload\obj\Debug\TaokeDownload.exe
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeDownload\obj\Debug\TaokeDownload.pdb
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeDownload\bin\Debug\TaokeDownload.exe
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeDownload\bin\Debug\TaokeDownload.pdb
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeDownload\obj\Debug\TaokeDownload.csprojResolveAssemblyReference.cache
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeDownload\obj\Debug\TaokeDownload.Form1.resources
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeDownload\obj\Debug\TaokeDownload.Properties.Resources.resources
+L:\备份_祝君\C\Desktop\TaokeThief\TaokeDownload\obj\Debug\TaokeDownload.csproj.GenerateResource.Cache
