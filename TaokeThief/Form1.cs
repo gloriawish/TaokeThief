@@ -226,11 +226,8 @@ namespace TaokeThief
                     if (!nid_dic.ContainsKey(item.Nid))
                     {
                         nid_dic.Add(item.Nid, item.Nid);
-                    }
-                    else
-                    {
                         temp.Add(item);
-                    }
+                    }           
                 }
 
                 string taocan = GetTaokeName(html);
@@ -377,9 +374,6 @@ namespace TaokeThief
                 if (!id_dic.ContainsKey(id_list[i]))
                 {
                     id_dic.Add(id_list[i], id_list[i]);
-                }
-                else
-                {
                     temp.Add(id_list[i]);
                 }
             }
